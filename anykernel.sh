@@ -4,12 +4,12 @@
 ## AnyKernel setup
 # begin properties
 properties() {
-kernel.string=
+kernel.string=Resurrected Kernel by jleeblanch @ xda-developers
 do.devicecheck=1
-do.modules=0
+do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=
+device.name1=sanders
 device.name2=
 device.name3=
 device.name4=
